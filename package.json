@@ -1,0 +1,26 @@
+{
+  "name": "order_managment",
+  "version": "1.0.0",
+  "description": "JavaScript , MongoDb , NodeJS , Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SagarMaan/Order_Managment.git"
+  },
+  "keywords": [],
+  "author": "Sagar Maan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SagarMaan/Order_Managment/issues"
+  },
+  "homepage": "https://github.com/SagarMaan/Order_Managment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2",
+    "nodemon": "^2.0.22"
+  }
+}
